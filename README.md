@@ -1,10 +1,5 @@
-### Hi there 👋
+### Olá, sou Bruno Oliveira
 
-
-- 💻 Hoje eu iniciei os estudos em programação
-- 👾 Estudando CSS
-- 😄 Pronouns: ele/dele
-- 😛 Tenho 17 anos
 
 <div align="center">
   <a href="https://github.com/BrunosdeOliveira">
